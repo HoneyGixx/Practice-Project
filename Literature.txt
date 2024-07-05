@@ -3,3 +3,30 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=38a64273249d19432
 
 Text Classification Algorithms: A Survey. Kamran Kowsari , Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura Barnes and Donald Brown 
 https://www.mdpi.com/2078-2489/10/4/150?source=post_page---------------------------
+
+Text classification by genre based on rhythm features
+https://www.mathnet.ru/links/d59d34176014790cf520b25b02e5a221/mais750.pdf
+
+Text Guide: Improving the quality of long text classification by a text selection method based on feature importance
+https://arxiv.org/pdf/2104.07225
+
+Large Scale Legal Text Classification Using Transformer Models
+https://arxiv.org/pdf/2010.12871
+
+Training Compute-Optimal Large Language Models
+https://arxiv.org/pdf/2203.15556
+
+Comparing Methods of Text Categorization 
+https://www.diva-portal.org/smash/get/diva2:1275337/FULLTEXT01.pdf
+
+A comparative study on deep learning models for text classification of unstructured medical notes with various levels of class imbalance
+https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01665-y
+
+Comparing automated text classification methods
+https://www.sciencedirect.com/science/article/pii/S0167811618300545
+
+A Survey Report on Text Classification with Different Term Weighing Methods and Comparison between Classification Algorithms 
+https://d1wqtxts1xzle7.cloudfront.net/106329321/13122-0472-libre.pdf?1696695473=&response-content-disposition=inline%3B+filename%3DA_Survey_Report_on_Text_Classification_w.pdf&Expires=1720162966&Signature=epoy-tEI1nU5qZXUNuROK6aLLMHK5l7fgNZd4mruexRDPDezpw8yBjWenFyhiQwJ17PV1wR~JJ-8waYrpad-YNcpacnbQBG-PvGQyAhwfHNzh1CkaZaUwf2umgbOocEM78F41uqoUbQC-UyUtkGtvexCWkJXG2UaYhqqCKvYL81tedqJJWxq7TVUCqnjOmkE6DRhbCXEEGuWtZ7aREZP~4HN6pW~UE9cuOIxD3F13pwxeX~J6vX~ZZZU7bUbPNXA5eKU5cnxxzNXD9cUH1RrZzML4GDoXDHwWwpP8aMTjd4Oo5F05o3YkYForBFxHbomTPbE0TK9qJAOtjaofIhOOg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+Comparing BERT against traditional machine learning text classification
+https://arxiv.org/pdf/2005.13012
