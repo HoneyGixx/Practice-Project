@@ -30,3 +30,9 @@ https://d1wqtxts1xzle7.cloudfront.net/106329321/13122-0472-libre.pdf?1696695473=
 
 Comparing BERT against traditional machine learning text classification
 https://arxiv.org/pdf/2005.13012
+
+Linguistically Motivated Features for Classifying Shorter Text into Fiction and Non-Fiction Genre
+https://aclanthology.org/2022.coling-1.77/
+
+Exploring the Use of Linguistic Features in Domain and Genre Classification
+https://aclanthology.org/E99-1019/
