@@ -1,0 +1,5 @@
+Exploiting Internal and External Semantics for the Clustering of Short Texts Using World Knowledge Xia Hu , Nan Sun ‡Chao Zhang‡ Tat-Seng Chua‡
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=38a64273249d194321efda1358334426bfb97709
+
+Text Classification Algorithms: A Survey. Kamran Kowsari , Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura Barnes and Donald Brown 
+https://www.mdpi.com/2078-2489/10/4/150?source=post_page---------------------------
